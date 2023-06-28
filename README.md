@@ -7,7 +7,6 @@
 ##
 <div> 
 <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Rinaldinigabriel&show_icons=true&theme=dracula" />
-<img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rinaldinigabriel&layout=compact=true&theme=dracula"/>
 </div>
 
 ##
@@ -18,6 +17,7 @@
    <img align="center" alt="Rinaldini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Rinaldini-JV" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
+
 
 ##
 
