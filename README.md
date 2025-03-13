@@ -1,7 +1,6 @@
 ### Olá ! Me chamo Gabriel Rinaldini
 
-- 🔭 Análise e Desenvolvimento de Sistemas
-- 🌱 DevOps em Formação
+- 🔭 ou formado em Análise e Desenvolvimento de Sistemas e estou me especializando em DevOps
 - 😄 Pronouns: ele/dele
 
 ##
