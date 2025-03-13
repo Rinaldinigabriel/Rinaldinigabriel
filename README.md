@@ -1,7 +1,7 @@
 ### Olá ! Me chamo Gabriel Rinaldini
 
-- 🔭 Cursando 3º Semestre de Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando Java com Spring Boot, SQL com Oracle Data Base
+- 🔭 Análise e Desenvolvimento de Sistemas
+- 🌱 DevOps em Formação
 - 😄 Pronouns: ele/dele
 
 ##
